@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Toast.makeText(this, "fsdafdss", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "New branch Added", Toast.LENGTH_LONG).show()
     }
 }
